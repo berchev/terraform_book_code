@@ -1,0 +1,3 @@
+chapter_2/webserver/.terraform/
+chapter_2/webserver/terraform.tfstate
+chapter_2/webserver/terraform.tfstate.backup
