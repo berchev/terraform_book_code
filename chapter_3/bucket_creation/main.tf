@@ -1,7 +1,7 @@
 ########################### FIRST PART OF THE CODE !!!! ######################
 # We will create bucket in order to have shared storage for state files
 # Please comment SECOND PART OF THE CODE before run this.
-# Once bucket is createdyou can uncomment SECOND part OF THE CODE and run the whole thing
+# Once bucket is created you can uncomment SECOND part OF THE CODE and run the whole thing
 
 variable "bucket_name" {}
 
