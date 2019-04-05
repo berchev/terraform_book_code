@@ -4,3 +4,6 @@ chapter_2/webserver/terraform.tfstate.backup
 chapter_2/cluster_of_webservers/terraform.tfstate.backup
 chapter_2/cluster_of_webservers/.terraform/
 chapter_2/cluster_of_webservers/terraform.tfstate
+chapter_3/bucket_creation/.terraform/
+chapter_3/bucket_creation/terraform.tfstate
+chapter_3/bucket_creation/terraform.tfstate.backup
