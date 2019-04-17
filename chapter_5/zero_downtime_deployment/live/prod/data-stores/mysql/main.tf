@@ -17,7 +17,7 @@ terraform {
   backend "s3" {
     bucket  = "berchev-terraform-book-state"
     region  = "us-east-1"
-    key     = "stage/data-stores/mysql/terraform.tfstate"
+    key     = "prod/data-stores/mysql/terraform.tfstate"
     encrypt = true
   }
 }
