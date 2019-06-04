@@ -1,0 +1,1 @@
+bucket_name = "berchev-terraform-book-state"
